@@ -1,0 +1,4 @@
+D_IF540_UAS_Kelompok 04 is the main python code for PREDICTING SYMPTOM BASED ON COMPLAINT USING ASSOCIATIVE APRIORI APPROACH
+ 
+
+Symptom2Disease.csv is the main dataset
