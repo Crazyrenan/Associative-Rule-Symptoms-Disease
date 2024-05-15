@@ -3,3 +3,6 @@ Finished is the main python code for PREDICTING SYMPTOM BASED ON COMPLAINT USING
 Symptom2Disease.csv is the main dataset
 
 Unfinished is the code that cannot be run
+
+use this link: https://nbviewer.org/github/Crazyrenan/Associative-Rule-Symptoms-Disease/tree/main/
+to view our .ipynb file.
